@@ -1,15 +1,9 @@
 {
     "slider-layout#home": {
         "children": [
-            "image#brand01",
-            "image#brand02",
-            "image#brand03",
-            "image#brand04",
-            "image#brand05",
-            "image#brand06"
+            "image#brand01", "image#brand02", "image#brand03", "image#brand04", "image#brand05", "image#brand06"
         ],
         "props": {
-            "navigationStep": "page",
             "autoplay": {
                 "timeout": 7000,
                 "stopOnHover": false
