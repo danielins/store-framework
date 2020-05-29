@@ -28,6 +28,7 @@
       "buy-button"
     ],
     "props": {
+      "preventVerticalStretch": false,
       "verticalAlign": "center"
     }
   },
