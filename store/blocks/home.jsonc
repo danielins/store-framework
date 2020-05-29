@@ -11,6 +11,7 @@
       "responsive-layout.mobile#mobile"
     ]
   },
+  
   "rich-text": {
     "props": {
       "text": "**Hello World!**",
